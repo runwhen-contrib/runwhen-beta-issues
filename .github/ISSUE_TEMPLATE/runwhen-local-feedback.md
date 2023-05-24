@@ -1,6 +1,6 @@
 ---
 name: RunWhen Local Feedback (bug or enhancement suggestion)
-about: 'Feel free to provide any details about your experience with the [RunWhenLocal](https://docs.runwhen.com/public/getting-started/runwhen-local) tool '
+about: 'Provide any details about your experience with the RunWhen Local tool: https://docs.runwhen.com/public/getting-started/runwhen-local '
 title: "[runwhen-local-feedback] "
 labels: runwhen-local
 assignees: 'stewartshea'
